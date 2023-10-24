@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<div > 
   
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
   
@@ -58,7 +58,7 @@
   
  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="tailwind" width="40" height="40"/> 
   
-  </p>
+  </div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=israelglory&show_icons=true&locale=en&layout=compact" alt="israelglory" /></p>
 
